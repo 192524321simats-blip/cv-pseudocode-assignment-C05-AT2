@@ -27,3 +27,16 @@
 11. Release camera
 12. End
     
+Algorithm: OCR Document Text Extraction
+
+1. Start
+2. Select document image.
+3. Load OCR engine.
+4. Read image.
+5. Convert image to grayscale.
+6. Remove noise.
+7. Detect text regions.
+8. Extract text.
+9. Save extracted text.
+10. Display result.
+11. End.
